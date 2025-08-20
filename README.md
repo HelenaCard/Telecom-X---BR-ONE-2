@@ -127,10 +127,6 @@ A análise exploratória revelou padrões importantes:
 
 ## 🛠️ Tecnologias Utilizadas
 
-<p align="center">
-  <img src="assets/tech_stack.png" width="500"/>
-</p>
-
 - **Python** → linguagem principal.  
 - **Pandas & NumPy** → manipulação de dados.  
 - **Plotly** → gráficos interativos.  
